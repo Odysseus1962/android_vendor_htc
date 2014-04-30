@@ -1,4 +1,4 @@
-animated-wight
+android_vendor_htc
 ==============
 
-testing
+Proprietary files pulled from last T-Mobile OTA
